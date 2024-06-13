@@ -37,7 +37,7 @@ function atm() {
         case "4":
           console.log("Hesabinizdan cixildi");
         default:
-          alert(" Yeniden basladin ve dogru butsonu basin");
+          alert(" Yeniden basladin ve dogru butonu basin");
 
           break;
       }
